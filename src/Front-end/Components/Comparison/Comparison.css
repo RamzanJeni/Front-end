@@ -1,0 +1,45 @@
+.compare-form{
+    padding-top:80px;
+    padding-bottom: 80px;
+}
+.compare-form h4{
+    color: rgb(24, 43, 73);
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 37px;
+    letter-spacing: 1.5px;
+}
+.compare-form h4 span{
+    color: rgb(17, 182, 122);
+}
+.compare-form button{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    width: 145px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 11px;
+    border-radius: 5px;
+    box-shadow: none;
+    margin: 5px 5px;
+    background: linear-gradient( 90deg, rgb(17, 182, 122) 0%, rgb(0, 148, 68) 100%);
+}
+.compare-form label{
+    text-align: left;
+    font-size: 1rem;
+}
+.compare-table tr{
+    margin-bottom: 3px;
+}
+.compare-table tr:first-child >td{
+    font-weight: bold;
+}
+.compare-table th{
+    background: rgb(17, 182, 122);
+    color: #fff;
+    font-weight: 500;
+} 
+.compare-table th, .compare-table td{
+    padding: 15px 20px;
+}

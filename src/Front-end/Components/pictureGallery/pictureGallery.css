@@ -1,0 +1,26 @@
+.picture-gallery{
+    background: rgb(246, 249, 255);
+    padding: 63px 0px 60px;
+}
+.picture-gallery .sec-title h4 {
+    color: rgb(24, 43, 73);
+    line-height: 35px;
+    font-weight: 700;
+    margin: auto auto 48px;
+}
+.picture-gallery .tour-box {
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 30px;
+}
+.picture-gallery .tour-box img{
+    cursor: pointer;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 5px;
+    transition: all 0.3s ease 0s;
+}
+.picture-gallery .tour-box img:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,11 @@
+.jumboClass{
+    background-color: black;
+}
+.jumboImg{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+.react-multi-carousel-item > div{
+    padding: 0 10px;
+}

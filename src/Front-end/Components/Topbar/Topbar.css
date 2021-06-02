@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.topbar{
+    background: rgb(24, 43, 73);
+    padding:10px 0px;
+    color: rgb(170, 170, 170);
+}
+.container-custom{
+    margin:0 auto;
+    padding:0 60px;
+}
+@media(min-width:1200px){
+    .container-custom{
+        padding:0 60px;
+    }
+}
+.topbar li{
+    margin: 0 5px;
+    border-left: 1px solid rgb(62, 62, 62);
+    padding: 5px 5px 5px 15px;
+    text-align: center;
+}
+.topbar li a{
+    text-decoration: none;
+}
+.topbar li  i{
+    font-size: 20px;
+    color: rgb(17, 182, 122);
+    vertical-align: bottom;
+    margin-right: 4px;
+}
+.topbar li:hover i{
+    color:#fff;
+}
+.topbar li a{
+    color: rgb(170, 170, 170);
+}

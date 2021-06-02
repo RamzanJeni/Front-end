@@ -1,0 +1,47 @@
+.video-section *{
+    text-align: left;
+}
+.video-section{
+    position: relative;
+    width: 100%;
+    height: 670px;
+}
+.video-section .serach-column{
+    margin-top:13rem;
+    margin-bottom: 2rem;
+}
+video.bg-video{
+    position: absolute;
+    top:4rem;
+    left:0;
+    object-fit: cover;
+    width: 100%;
+    height:100%;
+    z-index: 0;
+}
+.video-section h4{
+    color:#fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.video-section h4 span {
+    color: rgb(17, 182, 122);
+}
+.video-section label{
+    color:#fff;
+}
+.video-section input,
+.video-section select,
+.video-section button{
+    border-radius: 0px;
+}
+.video-section button{
+    background-color: rgb(17, 182, 122);
+    color: #fff;
+    text-align: center;
+}
+.mb-2r{
+    margin-bottom: 2rem !important;
+}

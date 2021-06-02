@@ -1,0 +1,19 @@
+.navbar-main{
+    position: absolute;
+    width: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 25px;
+    padding: 0px 30px;
+    background: linear-gradient(90deg, rgb(17, 182, 122) 0%, rgb(0, 148, 68) 100%);
+    border-radius: 5px;
+    z-index: 1111;
+}
+.navbar-main a.nav-link{
+    font-size: 14px;
+    color: rgb(255, 255, 255) !important;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 18px 25px 15px 0px;
+    margin: 0 25px 0px 0px;
+}

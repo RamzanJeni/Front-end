@@ -1,0 +1,29 @@
+.introSection{
+    margin-top:2rem;
+}
+.introSection h4,.introSection p{
+    text-align: left;
+}
+.introSection h4{
+    color: rgb(24, 43, 73);
+    line-height: 2.25rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.introSection p{
+    font-size: 1.1rem;
+    color: rgb(150, 150, 150);
+    line-height: 1.6rem;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+.introSection .btn-more{
+    display: flex;
+    justify-content: flex-start;
+    background:linear-gradient(90deg, rgb(17, 182, 122) 0%, rgb(0, 148, 68) 100%);
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}

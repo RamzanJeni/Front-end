@@ -1,0 +1,71 @@
+.newsletter-form-area {
+    background: rgb(24, 43, 73);
+}
+.newsletter-form-area .newsletter-container {
+    position: relative;
+}
+.newsletter-form-area .newsletter-container .newsletter-box {
+    background: linear-gradient(90deg, rgb(17, 182, 122) 0%, rgb(0, 148, 68) 100%);
+    padding: 37px 40px 40px;
+    border-radius: 5px;
+    position: absolute;
+    width: 100%;
+    top: -20px;
+    left: 0px;
+    z-index: 1;
+}
+.newsletter-form-area .newsletter-container .newsletter-box .sec-title h4 {
+    color: rgb(255, 255, 255);
+    margin-bottom: 35px;
+}
+.newsletter-form-area .newsletter-container .newsletter-box form.form p.form-control {
+    padding: 0px;
+    width: auto;
+    height: auto;
+    background: transparent;
+    border: none;
+    position: relative;
+}
+.newsletter-form-area .newsletter-container .newsletter-box form.form p.form-control input {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding: 15px 20px;
+    color: rgb(24, 43, 73);
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+.newsletter-container .newsletter-box form.form p.form-control span {
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    position: absolute;
+    bottom: -22px;
+    left: 0px;
+    visibility: hidden;
+}
+.newsletter-form-area .newsletter-container .newsletter-box form.form button {
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    background: rgb(24, 43, 73);
+    width: 100%;
+    height: 50px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+.newsletter-form-area .newsletter-container .newsletter-box form.form button:hover {
+    background: rgb(17, 182, 122);
+}
+.newsletter-form-area .newsletter-container .newsletter-box form.form button i {
+    font-size: 22px;
+    color: rgb(17, 182, 122);
+    margin-right: 5px;
+    vertical-align: text-bottom;
+    line-height: 19px;
+}
+.newsletter-form-area .newsletter-container .newsletter-box form.form button:hover i {
+    color: rgb(255, 255, 255);
+}

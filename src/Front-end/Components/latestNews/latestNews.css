@@ -1,0 +1,138 @@
+.latest-news *{
+    text-align:left;
+}
+.latest-news{
+    padding: 65px 0px;
+}
+.latest-news .sec-title h4 {
+    color: rgb(24, 43, 73);
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 37px;
+}
+.latest-news .sec-title h4 span {
+    color: rgb(17, 182, 122);
+}
+.latest-news .event-box {
+    margin-bottom: 35px;
+}
+.latest-news .event-box .event-date {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+    margin-top: 8px;
+    margin-right: 30px;
+    position: relative;
+}
+.latest-news .event-box .event-date::before {
+    content: "";
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background: rgb(17, 182, 122);
+    top: 0px;
+    left: 0px;
+    border-radius: 50% 3px 50% 50%;
+    transform: rotate(45deg);
+    z-index: -1;
+}
+.latest-news .event-box .event-date p {
+    font-size: 17px;
+    max-width: 50px;
+    margin: auto;
+    line-height: 20px;
+    padding-top: 13px;
+    text-align: center;
+}
+.latest-news .event-box .event-details h6 a {
+    color: rgb(24, 43, 73);
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.latest-news .event-box .event-details h6 a:hover {
+    color: rgb(17, 182, 122);
+}
+.latest-news .event-details ul li {
+    font-size: 14px;
+    color: rgb(150, 150, 150);
+    font-weight: 500;
+}
+.latest-news .event-box .event-details ul li i {
+    font-size: 15px;
+    margin-right: 5px;
+    color: rgb(17, 182, 122);
+}
+.latest-news .event-box .event-details p {
+    color: rgb(150, 150, 150);
+    line-height: 20px;
+}
+.latest-news .card-body {
+    padding: 0.2rem 1.25rem;
+}
+.latest-news .faq-box .faq-item {
+    margin-bottom: 22px;
+    background: transparent;
+    border:none;
+}
+.latest-news .faq-box .faq-item .card-header{
+    background: transparent;
+    border:none;
+}
+.latest-news .faq-box .faq-item button.accordion-button {
+    border: none;
+    background: transparent;
+    display: block;
+    width: 100%;
+    padding: 0px;
+    text-align: left;
+    position: relative;
+}
+.faq-box .faq-item button.accordion-button p {
+    font-size: 16px;
+    color: rgb(24, 43, 73);
+    font-weight: 500;
+    line-height: 18px;
+}
+.faq-box .faq-item button.accordion-button div.accordion-icon {
+    background: rgb(17, 182, 122);
+    height: 18px;
+    text-align: center;
+    float: left;
+    margin-right: 12px;
+    position: relative;
+}
+.faq-box .faq-item button.accordion-button div.accordion-icon::before {
+    content: "";
+    position: absolute;
+    border-width: 8px 16px;
+    border-style: solid;
+    border-color: transparent transparent rgb(17, 182, 122);
+    top: -16px;
+    left: 0px;
+    z-index: 1;
+}
+.faq-box .faq-item button.accordion-button div.accordion-icon i {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    width: 32px;
+    line-height: 20px;
+    padding-left: 2px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.faq-box .faq-item button.accordion-button div.accordion-icon::after {
+    content: "";
+    position: absolute;
+    border-width: 8px 16px;
+    border-style: solid;
+    border-color: rgb(17, 182, 122) transparent transparent;
+    bottom: -16px;
+    left: 0px;
+    z-index: 1;
+}

@@ -1,0 +1,88 @@
+.icon-box-area .full-icon-box {
+    position: relative;
+    margin-bottom: 130px;
+}
+.icon-box-area .full-icon-box .icon-box {
+    position: absolute;
+    top: -20px;
+    left: 0px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 35px 20px 20px;
+    z-index: 9;
+    box-shadow: rgb(0 0 0 / 7%) 0px 12px 25px;
+    border-radius: 5px;
+}
+.full-icon-box .icon-box .box-title h6 {
+    color: rgb(24, 43, 73);
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+.full-icon-box .icon-box .box-title p{
+    text-align: left;
+}
+.icon-box .box-icon {
+    background: rgb(24, 43, 73);
+    height: 36px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top:14px;
+    position: relative;
+}
+.icon-box-area .full-icon-box .icon-box .box-icon::before {
+    content: "";
+    position: absolute;
+    border-width: 15px 30px;
+    border-style: solid;
+    border-color: transparent transparent rgb(24, 43, 73);
+    top: -30px;
+    left: 0px;
+    z-index: 1;
+}
+ .icon-box-area .full-icon-box .icon-box .box-icon i {
+    font-size: 34px;
+    color: rgb(255, 255, 255);
+    width: 60px;
+    display: inline-block;
+    position: relative;
+    z-index: 111;
+}
+.icon-box-area .full-icon-box .icon-box .box-icon::after {
+    content: "";
+    position: absolute;
+    border-width: 15px 30px;
+    border-style: solid;
+    border-color: rgb(24, 43, 73) transparent transparent;
+    bottom: -30px;
+    left: 0px;
+    z-index: 1;
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box1 {
+    background: rgb(255, 111, 111);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box1::after {
+    border-top-color: rgb(255, 111, 111);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box1::before {
+    border-bottom-color: rgb(255, 111, 111);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box2 {
+    background: rgb(132, 71, 156);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box2::before {
+    border-bottom-color: rgb(132, 71, 156);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box2::after {
+    border-top-color: rgb(132, 71, 156);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box3 {
+    background: rgb(44, 151, 234);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box3::before {
+    border-bottom-color: rgb(44, 151, 234);
+}
+.icon-box-area .full-icon-box .icon-box .box-icon.box3::after {
+    border-top-color: rgb(44, 151, 234);
+}
