@@ -27,9 +27,9 @@ class topFields extends Component{
                                                 </a>
                                                 <div class="field-content">
                                                     <h6 class="heading">
-                                                        <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                        <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                     </h6>
-                                                    <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                    <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                     <div class="field-face d-flex justify-content-between">
                                                         <div class="duration">
                                                             <p><i class="fa fa-clock-o"></i>120</p>
@@ -62,9 +62,9 @@ class topFields extends Component{
                                                 </a>
                                                 <div class="field-content">
                                                     <h6 class="heading">
-                                                        <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                        <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                     </h6>
-                                                    <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                    <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                     <div class="field-face d-flex justify-content-between">
                                                         <div class="duration">
                                                             <p><i class="fa fa-clock-o"></i>120</p>
@@ -97,9 +97,9 @@ class topFields extends Component{
                                                 </a>
                                                 <div class="field-content">
                                                     <h6 class="heading">
-                                                        <a href="/themes/edulyn-v1.0/field-details">Punjab University</a>
+                                                        <a href="https://pucit.edu.pk/admission-criteria/">PUCIT, Lahore Pakistan University</a>
                                                     </h6>
-                                                    <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                    <p class="desc">ICS / FSc / Intermediate with Mathematics & Physics / Intermediate with Mathematics & Computer Science / Intermediate with Mathematics & Statistics / DAE (At least 60% marks in DAE in a relevant discipline)</p>
                                                     <div class="field-face d-flex justify-content-between">
                                                         <div class="duration">
                                                             <p><i class="fa fa-clock-o"></i>120</p>
@@ -132,10 +132,10 @@ class topFields extends Component{
                                                 </a>
                                                 <div class="field-content">
                                                     <h6 class="heading">
-                                                        <a href="/themes/edulyn-v1.0/field-details">University of Management Sciences
+                                                        <a href="https://admissions.umt.edu.pk/">University of Management Sciences
                                                         </a>
                                                     </h6>
-                                                    <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                    <p class="desc">UMT is offering two-year graduate degree programs 2021 in a diverse range of disciplines. These courses are well-structured and integrate both theory and practice.</p>
                                                     <div class="field-face d-flex justify-content-between">
                                                         <div class="duration">
                                                             <p><i class="fa fa-clock-o"></i>120</p>
@@ -168,9 +168,9 @@ class topFields extends Component{
                                                 </a>
                                                 <div class="field-content">
                                                     <h6 class="heading">
-                                                        <a href="/themes/edulyn-v1.0/field-details">National University of Science & Technology</a>
+                                                        <a href="https://nust.edu.pk/admissions/">National University of Science & Technology</a>
                                                     </h6>
-                                                    <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                    <p class="desc">NUST symbolises quality and excellence. Its spirited faculty, industrious students and excellent support infrastructure provide an academic environment, found only in the very best of the world universities.</p>
                                                     <div class="field-face d-flex justify-content-between">
                                                         <div class="duration">
                                                             <p><i class="fa fa-clock-o"></i>120</p>
@@ -203,9 +203,9 @@ class topFields extends Component{
                                                 </a>
                                                 <div class="field-content">
                                                     <h6 class="heading">
-                                                        <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                        <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                     </h6>
-                                                    <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                    <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                     <div class="field-face d-flex justify-content-between">
                                                         <div class="duration">
                                                             <p><i class="fa fa-clock-o"></i>120</p>
@@ -245,9 +245,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                            <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -280,9 +280,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                            <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -315,9 +315,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Punjab University</a>
+                                                            <a href="https://pucit.edu.pk/admission-criteria/">PUCIT, Lahore Pakistan</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">ICS / FSc / Intermediate with Mathematics & Physics / Intermediate with Mathematics & Computer Science / Intermediate with Mathematics & Statistics / DAE (At least 60% marks in DAE in a relevant discipline)</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -350,10 +350,10 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">University of Management Sciences
+                                                            <a href="https://admissions.umt.edu.pk/">University of Management Sciences
                                                             </a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">UMT is offering two-year graduate degree programs 2021 in a diverse range of disciplines. These courses are well-structured and integrate both theory and practice.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -386,9 +386,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">National University of Science & Technology</a>
+                                                            <a href="https://nust.edu.pk/admissions/">National University of Science & Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">NUST symbolises quality and excellence. Its spirited faculty, industrious students and excellent support infrastructure provide an academic environment, found only in the very best of the world universities.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -421,9 +421,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                            <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -463,9 +463,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                            <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -498,9 +498,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                            <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -533,9 +533,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Punjab University</a>
+                                                            <a href="https://pucit.edu.pk/admission-criteria/">PUCIT, Lahore Pakistan University</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">ICS / FSc / Intermediate with Mathematics & Physics / Intermediate with Mathematics & Computer Science / Intermediate with Mathematics & Statistics / DAE (At least 60% marks in DAE in a relevant discipline)</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -568,10 +568,10 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">University of Management Sciences
+                                                            <a href="https://admissions.umt.edu.pk/">University of Management Sciences
                                                             </a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">UMT is offering two-year graduate degree programs 2021 in a diverse range of disciplines. These courses are well-structured and integrate both theory and practice.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -604,9 +604,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">National University of Science & Technology</a>
+                                                            <a href="https://nust.edu.pk/admissions/">National University of Science & Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">NUST symbolises quality and excellence. Its spirited faculty, industrious students and excellent support infrastructure provide an academic environment, found only in the very best of the world universities.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>
@@ -639,9 +639,9 @@ class topFields extends Component{
                                                     </a>
                                                     <div class="field-content">
                                                         <h6 class="heading">
-                                                            <a href="/themes/edulyn-v1.0/field-details">Comsats Institute of Technology</a>
+                                                            <a href="https://lahore.comsats.edu.pk/admissions.aspx">Comsats Institute of Technology</a>
                                                         </h6>
-                                                        <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.</p>
+                                                        <p class="desc">Admissions in CUI are granted on the basis of open merit amongst the eligible candidates subject to the availability of seats in each program.</p>
                                                         <div class="field-face d-flex justify-content-between">
                                                             <div class="duration">
                                                                 <p><i class="fa fa-clock-o"></i>120</p>

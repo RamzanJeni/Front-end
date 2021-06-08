@@ -17,7 +17,7 @@ class featureCard extends Component{
                                         <div className="box-icon box1"><i className="fa fa-hand-o-right"></i>
                                         </div>
                                         <div className="box-title">
-                                            <h6>Popular Courses</h6><p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+                                            <h6>Popular Universities</h6><p>Popular universities in Lahore, Pakistan</p>
                                         </div>
                                     </div>
                                 </div>
@@ -29,7 +29,7 @@ class featureCard extends Component{
                                             <i className="fa fa-book"></i>
                                         </div>
                                         <div className="box-title">
-                                            <h6>Modern Library</h6><p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+                                            <h6>Admission Systems</h6><p>We are couselling the admission system of different universities. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -41,8 +41,8 @@ class featureCard extends Component{
                                         <i className="fa fa-user"></i>
                                         </div>
                                         <div className="box-title">
-                                            <h6>Qualified Teacher</h6>
-                                            <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+                                            <h6>Experienced Staff</h6>
+                                            <p>We are providing you the experienced staff  </p>
                                         </div>
                                     </div>
                                 </div>

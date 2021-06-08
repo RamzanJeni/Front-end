@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Row, Col } from 'react-bootstrap/esm/index'
 import './Comparison.css'
+import Axios from 'axios'
 
 class Comparison extends Component {
     constructor(props) {
@@ -14,9 +15,29 @@ class Comparison extends Component {
 
     handleComparison = () => {
         this.setState({
-            show: true
+            show: true,
+            firstUniversityName: "",
+            secondUniversityName: ""
         })
     }
+
+    getComparison = (e) => {
+
+        e.preventDefault();
+
+        var sendingData = {
+            firstUniversityName: this.state.firstUniversityName,
+            secondUniversityName: this.state.secondUniversityName
+        }
+
+        Axios.post("http://localhost:5000/getComparison", sendingData)
+            .then((res) => {
+                console.log(JSON.stringify(res.data.recordsets));
+            })
+            .catch(err => {
+                console.error(err);
+            }
+    )}
 
     render() {
 

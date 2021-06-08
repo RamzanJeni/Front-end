@@ -56,6 +56,9 @@
 .latest-news .event-box .event-details h6 a:hover {
     color: rgb(17, 182, 122);
 }
+.latest-news .event-box .event-details.numl-uni {
+    padding-left: 4%;
+}
 .latest-news .event-details ul li {
     font-size: 14px;
     color: rgb(150, 150, 150);

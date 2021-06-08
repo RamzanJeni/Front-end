@@ -1,0 +1,73 @@
+.admission-section {
+    margin: 80px;
+}
+.admission-section form label{
+    display: block;
+    text-align: left;
+}
+.admission-section h2 {
+    padding-bottom: 3%;
+}
+span {
+    color: rgb(17, 182, 122);
+}
+.admission-section select{
+    border-radius: 0px;
+    background-color: #ededed;
+    box-shadow:0px;
+}
+.admission-section button.btn-primary{
+    background-color:rgb(17, 182, 122);
+    border-radius: 0px;
+    border-color:rgb(17, 182, 122);
+}
+.admission-section button.btn-primary:hover{
+    background-color: #07294d;
+}
+.admission-list {
+    padding: 3%;
+}
+.admission-list .container {
+    padding-top: 3%;
+}
+.admission-list a.admission-link{
+    color:#ffff;
+    text-decoration: none;
+    position: relative;
+    display: block;
+}
+
+.admission-list a.admission-link::before{
+    content:"";
+    position: absolute;
+    left:0px;
+    top:0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.admission-link img{
+    display: block;
+    width: 100%;
+    transition: all 0.3s ease 0s;
+    height: 231px;
+}
+.admission-link .uni-name-caption{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.admission-list .uni-name-caption h3{
+    font-size: 1.4rem;
+    letter-spacing: 1.2px;
+}
+.admission-list .row >div{
+    margin-bottom: 3%;
+}
